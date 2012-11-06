@@ -1,7 +1,7 @@
 WordPress-Developer-Interview-Questions
 =======================================
 
-@version 1.0
+@version 0.1
 
 Note: This repo contains a number of WordPress Developer interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
 
