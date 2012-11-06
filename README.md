@@ -9,8 +9,7 @@ Keep in mind that many of these questions are open ended and could lead to inter
 
 ### Basics    
 
-* What is the loop?
-* What are Custom Post Types?
+* What is the difference between WordPress.org and WordPress.com?
 
 ### Plugins    
 
@@ -18,4 +17,11 @@ Keep in mind that many of these questions are open ended and could lead to inter
 
 ### Themes
 
-* What is a child theme?
+* What is the Loop?
+* What are Custom Post Types?
+* What is a Child theme?
+* When should you use WP_Query vs query_posts() vs get_posts()?
+
+### Fun
+* Who invented WordPress?
+* 
