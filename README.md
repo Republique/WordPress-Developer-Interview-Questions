@@ -7,21 +7,31 @@ Note: This repo contains a number of WordPress Developer interview questions tha
 
 Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
-### Basics    
+### Basics
 
 * What is the difference between WordPress.org and WordPress.com?
 
-### Plugins    
+### Plugins - Easy
+
+* What is a custom field?
+* What are Metaboxes?
+
+### Plugins - Intermediate
 
 * When are plugins loaded?
 
-### Themes
+### Themes - Easy
 
 * What is the Loop?
-* What are Custom Post Types?
+* What are Custom Post Types? 
 * What is a Child theme?
 * When should you use WP_Query vs query_posts() vs get_posts()?
 
-### Fun
+### Themes - Intermediate
+
+* Name 3 WordPress functions and what they do
+* Why would you set a Custom Post Type's *hierarchical* argument to true?
+
+
+### Misc
 * Who invented WordPress?
-* 
